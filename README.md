@@ -1,6 +1,7 @@
 # 100days_DSA
-                    
-Day-1:  (Dt-18/11/2022, Friday)
-      Sorting-1:-Selection Sort
-                 Bubble sort
-                 Insertion sort
+      
+      (Started from : 20/11/2022   -> up to : 20/02/2023)
+      
+Day-1:  (Dt-20/11/2022, Sunday) :->
+                                       Sorting-1:-Selection Sort
+                
