@@ -4,4 +4,5 @@
       
 Day-1:  (Dt-20/11/2022, Sunday) :->
                                        Sorting-1:-Selection Sort
-                
+Day-2:  (Dt-23/11/2022, Wednesday) :->
+                                       Sorting-2:-Bubble Sort                 
